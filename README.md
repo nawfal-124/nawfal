@@ -1,1 +1,1 @@
-# nawfal
+print("hello world")
